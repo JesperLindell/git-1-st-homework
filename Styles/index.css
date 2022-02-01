@@ -348,7 +348,14 @@
     display: none;
   }
 
+body { background-image: url(../Pictures/Jesper.jpg) ;
+  background-repeat: initial;
+  background-size: 90px;
+  background-position: left;
+  background-attachment: fixed;
+  background-blend-mode: saturation;
 
+}
 
 h3 {
     color: rgb(247, 16, 170); 
@@ -356,7 +363,8 @@ h3 {
     font-style: inherit;
     font-weight: 900;
     text-align: start;
-    background-color: rgb(9, 189, 144);
+    background-color: rgb(9, 189, 144, 0.5);
+  
 }
 
 
@@ -372,4 +380,13 @@ p {
 }
 .vers2 {
   color:rgb(223, 187, 88)
+}
+
+img { 
+  border-width: 5px;
+  border-color: lightgreen;
+  border-style: double;
+  border-radius: 0px 15px 30px 60px;
+  box-shadow: 30px 30px 50px 10px pink
+
 }
