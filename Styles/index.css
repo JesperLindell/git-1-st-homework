@@ -363,8 +363,13 @@ h3 {
 #section3 {
     color:rgb(255, 113, 255)!important;
     text-align: start;
-} 
+    background-color: blue;
+    font-stretch: extra-expanded;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}   
 p {
     color: rgb(0, 255, 179);
 }
-
+.vers2 {
+  color:rgb(223, 187, 88)
+}
