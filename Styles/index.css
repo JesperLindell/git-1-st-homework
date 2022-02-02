@@ -390,3 +390,8 @@ img {
   box-shadow: 30px 30px 50px 10px pink
 
 }
+
+button:hover {
+  background-color: rgb(40, 212, 212);
+  color: rgb(245, 51, 51); 
+}
