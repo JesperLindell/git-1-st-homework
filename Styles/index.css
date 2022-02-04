@@ -368,13 +368,13 @@ h3 {
 }
 
 
-#section3 {
-    color:rgb(255, 113, 255)!important;
-    text-align: start;
-    background-color: blue;
-    font-stretch: extra-expanded;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}   
+  #section3 {
+      color:rgb(255, 113, 255)!important;
+      text-align: start;
+      background-color: blue;
+      font-stretch: extra-expanded;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }   
 p {
     color: rgb(0, 255, 179);
 }
@@ -395,3 +395,4 @@ button:hover {
   background-color: rgb(40, 212, 212);
   color: rgb(245, 51, 51); 
 }
+
